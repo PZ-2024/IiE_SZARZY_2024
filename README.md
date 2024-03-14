@@ -1,2 +1,2 @@
 # IiE_SZARZY_2024
-Programowanie Zespołowe
+Programowanie Zespołowe Grupa Szara
