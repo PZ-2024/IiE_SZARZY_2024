@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fa8b193-64ac-44cf-a6d6-cfb5a7f89d79" name="Changes" comment="" />
+    <list default="true" id="5fa8b193-64ac-44cf-a6d6-cfb5a7f89d79" name="Changes" comment="Test systemu Commitow" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +48,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Wojtek",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -68,6 +68,31 @@
       <option name="presentableId" value="Default" />
       <updated>1710513442055</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test systemu Commitow">
+      <option name="closed" value="true" />
+      <created>1710514541422</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710514541422</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test systemu Commitow">
+      <option name="closed" value="true" />
+      <created>1710514566684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710514566684</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test systemu Commitow">
+      <option name="closed" value="true" />
+      <created>1710514662954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710514662954</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test systemu Commitow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test systemu Commitow" />
   </component>
 </project>
