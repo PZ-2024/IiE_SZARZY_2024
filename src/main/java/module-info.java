@@ -1,4 +1,4 @@
-module com.example.iie_szarzy_2024 {
+module com.example.iie_szarzy {
     requires javafx.controls;
     requires javafx.fxml;
 
