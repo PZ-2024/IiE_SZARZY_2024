@@ -1,0 +1,34 @@
+.root {
+    -fx-background-color: #ADD8E6;
+}
+
+#loginGridPane {
+    -fx-background-color: #ffffff;
+    -fx-padding: 20px;
+    -fx-spacing: 10px;
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-min-width: 150px;
+}
+
+.text-field {
+    -fx-font-size: 14px;
+    -fx-pref-width: 200px;
+}
+
+.password-field {
+    -fx-font-size: 14px;
+    -fx-pref-width: 200px;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-pref-width: 100px;
+}
+
+#messageLabel {
+    -fx-font-size: 14px;
+    -fx-text-fill: red;
+}
